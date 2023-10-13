@@ -1,0 +1,27 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://pastellorenzo-gabrielextend:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook coding_activity_6.2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: c716c384-ea97-435a-99f4-d7de6a93b1d9
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel c716c384-ea97-435a-99f4-d7de6a93b1d9) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /coding_activity_6.2.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.2.ipynb
+[NotebookApp | INFO] Starting buffering for c716c384-ea97-435a-99f4-d7de6a93b1d9:46ef0f89ea7b4daf896d9b90c8642a5e
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: c716c384-ea97-435a-99f4-d7de6a93b1d9
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://nobodysponsor-elementengine:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://nobodysponsor-elementengine:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).

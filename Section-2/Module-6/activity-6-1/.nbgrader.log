@@ -1,0 +1,32 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://speechvisible-junioraugust:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook coding_activity_6.1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 917cc7c9-675b-446c-ba02-97f806483531
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 917cc7c9-675b-446c-ba02-97f806483531) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Starting buffering for 917cc7c9-675b-446c-ba02-97f806483531:b5294569f61b49a3a31584ac9b9b1b14
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 917cc7c9-675b-446c-ba02-97f806483531) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 917cc7c9-675b-446c-ba02-97f806483531:b5294569f61b49a3a31584ac9b9b1b14
+[NotebookApp | WARNING] WebSocket ping timeout after 90013 ms.
+[NotebookApp | INFO] Starting buffering for 917cc7c9-675b-446c-ba02-97f806483531:b5294569f61b49a3a31584ac9b9b1b14
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 917cc7c9-675b-446c-ba02-97f806483531) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 917cc7c9-675b-446c-ba02-97f806483531:b5294569f61b49a3a31584ac9b9b1b14
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.1.ipynb
