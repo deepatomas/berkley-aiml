@@ -1,0 +1,24 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://novabenefit-marionstrong:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook coding_activity_6.5.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 3c603f7c-ff18-48c9-b159-1919ec397a0c
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 3c603f7c-ff18-48c9-b159-1919ec397a0c) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /coding_activity_6.5.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.5.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.5.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.5.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.5.ipynb
+[NotebookApp | INFO] Starting buffering for 3c603f7c-ff18-48c9-b159-1919ec397a0c:f15513d00a08458384ae11ed43f9b2e8
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 3c603f7c-ff18-48c9-b159-1919ec397a0c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://nobodysponsor-elementengine:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).

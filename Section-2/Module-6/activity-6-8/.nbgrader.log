@@ -1,0 +1,28 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://rhinoopera-ponchoprivate:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook coding_activity_6.8.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/images/meats.png (192.168.10.93) 0.99ms
+[NotebookApp | INFO] Kernel started: 2deb8197-f52b-4d55-b963-4709a6b7d59d
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 2deb8197-f52b-4d55-b963-4709a6b7d59d) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /coding_activity_6.8.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.8.ipynb
+[NotebookApp | INFO] Starting buffering for 2deb8197-f52b-4d55-b963-4709a6b7d59d:2ab65e3b753d446e8037faf1dcbc904c
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 2deb8197-f52b-4d55-b963-4709a6b7d59d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://nobodysponsor-elementengine:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://nobodysponsor-elementengine:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).

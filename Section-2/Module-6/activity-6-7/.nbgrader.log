@@ -1,0 +1,52 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://picassodemand-cannonfield:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook coding_activity_6.7.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 3962a3e2-0be9-43a5-beac-2373cfb0dce2
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 3962a3e2-0be9-43a5-beac-2373cfb0dce2) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 3962a3e2-0be9-43a5-beac-2373cfb0dce2:8c79f08bd9df41bb9c005fb3bd2e0ca7
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 3962a3e2-0be9-43a5-beac-2373cfb0dce2) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 3962a3e2-0be9-43a5-beac-2373cfb0dce2:8c79f08bd9df41bb9c005fb3bd2e0ca7
+[NotebookApp | WARNING] WebSocket ping timeout after 90007 ms.
+[NotebookApp | INFO] Starting buffering for 3962a3e2-0be9-43a5-beac-2373cfb0dce2:8c79f08bd9df41bb9c005fb3bd2e0ca7
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 3962a3e2-0be9-43a5-beac-2373cfb0dce2
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://picassodemand-cannonfield:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook coding_activity_6.7.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 82c4fdcd-fc74-4975-942e-aa89d75e83c7
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 82c4fdcd-fc74-4975-942e-aa89d75e83c7) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.7.ipynb
+[NotebookApp | INFO] Starting buffering for 82c4fdcd-fc74-4975-942e-aa89d75e83c7:298d472d50a84089b4cfc030801d6408
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 82c4fdcd-fc74-4975-942e-aa89d75e83c7
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://nobodysponsor-elementengine:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).

@@ -1,0 +1,45 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://romanquality-francerelax:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook coding_activity_6.6.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 18b6e068-c489-4504-b2b9-2fed73bb72b9
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 18b6e068-c489-4504-b2b9-2fed73bb72b9) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /coding_activity_6.6.ipynb
+[NotebookApp | INFO] Starting buffering for 18b6e068-c489-4504-b2b9-2fed73bb72b9:3bdc387e0b2f4053a13cfa4bc37c3e6e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 18b6e068-c489-4504-b2b9-2fed73bb72b9) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 18b6e068-c489-4504-b2b9-2fed73bb72b9:3bdc387e0b2f4053a13cfa4bc37c3e6e
+[NotebookApp | WARNING] WebSocket ping timeout after 90020 ms.
+[NotebookApp | INFO] Starting buffering for 18b6e068-c489-4504-b2b9-2fed73bb72b9:3bdc387e0b2f4053a13cfa4bc37c3e6e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 18b6e068-c489-4504-b2b9-2fed73bb72b9) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 18b6e068-c489-4504-b2b9-2fed73bb72b9:3bdc387e0b2f4053a13cfa4bc37c3e6e
+[NotebookApp | INFO] Starting buffering for 18b6e068-c489-4504-b2b9-2fed73bb72b9:3bdc387e0b2f4053a13cfa4bc37c3e6e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 18b6e068-c489-4504-b2b9-2fed73bb72b9) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 18b6e068-c489-4504-b2b9-2fed73bb72b9:3bdc387e0b2f4053a13cfa4bc37c3e6e
+[NotebookApp | WARNING] WebSocket ping timeout after 119906 ms.
+[NotebookApp | INFO] Starting buffering for 18b6e068-c489-4504-b2b9-2fed73bb72b9:3bdc387e0b2f4053a13cfa4bc37c3e6e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 18b6e068-c489-4504-b2b9-2fed73bb72b9) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 18b6e068-c489-4504-b2b9-2fed73bb72b9:3bdc387e0b2f4053a13cfa4bc37c3e6e
+[NotebookApp | INFO] Saving file at /coding_activity_6.6.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.6.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.6.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.6.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.6.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.6.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.6.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.6.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.6.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.6.ipynb
+[NotebookApp | INFO] Saving file at /coding_activity_6.6.ipynb
+[NotebookApp | INFO] Starting buffering for 18b6e068-c489-4504-b2b9-2fed73bb72b9:3bdc387e0b2f4053a13cfa4bc37c3e6e
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 18b6e068-c489-4504-b2b9-2fed73bb72b9
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://nobodysponsor-elementengine:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
